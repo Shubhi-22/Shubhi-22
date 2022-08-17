@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shubhi-22
+- 👋 Hi, I'm Shubhra Srivastava
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning web development and machine leaning
+- 🌱 I’m currently learning web development ,web designing and machine leaning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through gmail srivastavashubhra35@gmail.com
 
