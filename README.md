@@ -1,4 +1,4 @@
-# Hi, I'm Shubhi! 👋
+# Hi, I'm Shubhra! 👋
 
 I'm a passionate developer with experience in web development, machine learning and open-source contributions.  
 I love building projects that make a difference and learning new technologies along the way.
