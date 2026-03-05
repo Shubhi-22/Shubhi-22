@@ -7,10 +7,13 @@ I love building projects that make a difference and learning new technologies al
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, JavaScript, C,PHP, HTML, CSS
-- **Databses:** MySql, Mongodb  
-- **Frameworks / Libraries:** React, Node.js, Django, CakePHP  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman
+- **Languages:** Java, JavaScript, Python, SQL, PHP, HTML, CSS  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Frameworks / Libraries:** React.js, Next.js, Node.js, Express.js, FastAPI, Django (basic), Spring Boot (basic), CakePHP, Laravel, TensorFlow (project use)  
+- **Backend & Systems:** REST APIs, Backend Development, Microservices Concepts, WebSockets, System Design, ORM, SQL Optimization  
+- **Integration & Data:** JSON, XML, HTTP, API Integration  
+- **AI & Automation Exposure:** LLM APIs (exploratory), Prompt-based workflows, Automation scripting  
+- **Tools & Platforms:** Git, GitHub, Linux, Docker (basic), CI/CD Concepts, VS Code, Postman, Chakra UI, Material UI
 
 ---
 ## 📈 GitHub Stats
